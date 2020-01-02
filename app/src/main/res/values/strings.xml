@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchMaterialDesign</string>
+    <string name="abc_search_hint">Search</string>
+</resources>
